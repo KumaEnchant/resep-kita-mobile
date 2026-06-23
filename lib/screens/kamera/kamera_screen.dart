@@ -24,8 +24,7 @@ class _KameraScreenState extends State<KameraScreen>
   late AnimationController _pulseController;
   late Animation<double> _pulseAnimation;
 
-  static const _apiKey =
-      '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';
+  static const _apiKey = '';
 
   @override
   void initState() {

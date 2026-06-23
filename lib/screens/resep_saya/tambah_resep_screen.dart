@@ -39,7 +39,7 @@ class _TambahResepScreenState extends State<TambahResepScreen> {
   final List<TextEditingController> _langkahControllers = [TextEditingController()];
   final List<String> _kategoriOptions = ['Makanan', 'Minuman', 'Kue'];
 
-  static const String _openRouterApiKey = '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';
+ static const String _openRouterApiKey = '';
 
   @override
   void initState() {
