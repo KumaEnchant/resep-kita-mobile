@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "131772921897",
+    "project_id": "resep-kita-19eb5",
+    "storage_bucket": "resep-kita-19eb5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131772921897:android:a16b5b88e4db0264850438",
+        "android_client_info": {
+          "package_name": "com.example.resep_kita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131772921897-9rd6jbjsmit9dhelgt1g2n827a6rjtj5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.resep_kita",
+            "certificate_hash": "f2492c319c17b6d27ccc50ce325cbed52272cdd1"
+          }
+        },
+        {
+          "client_id": "131772921897-2t1eqjto7h14rf0tbh8a1sevppfju7i7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn2akmepys8J0TqToki1Fx-mY5SbwZ2GE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131772921897-2t1eqjto7h14rf0tbh8a1sevppfju7i7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "131772921897-9k4t343euv938smt4et3bkeg55ertsum.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.resepKita"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
